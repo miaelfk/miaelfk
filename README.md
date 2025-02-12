@@ -22,7 +22,6 @@
 [![Quest Progress](https://img.shields.io/badge/PHASE-βeta_Testing-%2300C853?style=flat&logo=azure-pipelines&logoColor=white)](https://github.com/miaelfk/bank-account-project)
 [![Boss Difficulty](https://img.shields.io/badge/DIFFICULTY-Legendary_%28NG+%29-%23D32F2F?style=flat&logo=starship)]
 
-**"The Transaction King"**  
 - 🛡️ **Security Wall**: AES-256 encryption (HP: ♾️)
 - 💰 **Money Mechanics**: Battle complex transaction rules
 - 📈 **Report Guardian**: Data visualization mini-boss
