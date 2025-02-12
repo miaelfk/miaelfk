@@ -32,5 +32,8 @@
   <a href="mailto:samiaf@genstudents.org">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://steamcommunity.com/id/miaxhan" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam" />
+  </a>
 </p>
 
