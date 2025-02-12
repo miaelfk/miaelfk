@@ -23,7 +23,6 @@
 [![Boss Difficulty](https://img.shields.io/badge/DIFFICULTY-Legendary_%28NG+%29-%23D32F2F?style=flat&logo=starship)]
 
 **"The Transaction King"**  
-*Final fantasy meets financial systems:*
 - 🛡️ **Security Wall**: AES-256 encryption (HP: ♾️)
 - 💰 **Money Mechanics**: Battle complex transaction rules
 - 📈 **Report Guardian**: Data visualization mini-boss
@@ -39,13 +38,11 @@
 _"This financial fiend is vulnerable to Strategy pattern attacks for fee calculations!"_
 
 🗺️ [Enter the Dungeon (Repository)](https://github.com/miaelfk/bank-account-project)  
-🎮 **Secret Achievement**: Find the `VaultBreakerSimulation.java` easter egg!
 
 ---
 
 **Quest Party Members:**  
-👩💻 1 Full Stack Mage  
-🤖 CI/CD Golem (GitHub Actions)
+👩💻 1 Full Stack Mage | 🤖 CI/CD Golem (GitHub Actions)
 
 
 ###
