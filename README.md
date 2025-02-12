@@ -13,7 +13,7 @@
 ###
 
 <h6 align="left"> When I'm not coding, you'll find me: </h6>
-<h6 align="left">🎮 Playing: from zombies to relaxing things <br>🥐 Spending my money in overpriced coffee shops <br> 📖 Reading books: my favorite genre is horror/fiction <br> 👨‍👩‍👧 Coding or not, always loving my beautiful family </h6>
+<h6 align="left">🎮 Playing: from zombies to relaxing things <br>🥐 Spending my money in overpriced cafés because of beautiful food <br> 📖 Reading books: my favorite genre is horror/fiction <br> 👨‍👩‍👧 Coding or not, always loving my beautiful family </h6>
 
 ###
 
