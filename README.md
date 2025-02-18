@@ -50,9 +50,6 @@ When I'm not coding, you'll find me:
 <a href="https://www.instagram.com/miaelfk/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:samiaf@genstudents.org">
-<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 <a href="https://steamcommunity.com/id/miaxhan" target="_blank">
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam" />
 </a>
