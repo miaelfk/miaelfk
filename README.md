@@ -14,8 +14,8 @@
 
 When I'm not coding, you'll find me:
 
-- 🎮 Playing: from zombies to relaxing things <br>
-- 🥐 Spending my money in overpriced cafés because of beautiful food
+- 🎮 Playing: from zombies to relaxing things
+- 🥐 Trying to see all the cafés in São Paulo
 - 📖 Reading books: my favorite genre is horror/fiction
 - 👨‍👩‍👧 Coding or not, always loving my beautiful family
 
@@ -25,12 +25,12 @@ When I'm not coding, you'll find me:
 
 [![Achievement](https://img.shields.io/badge/STATUS-DEPLOYED-%2300C853?style=flat&logo=azure-pipelines&logoColor=white)](https://github.com/miaelfk/bank-account-project)
 
+🗺️ [Explore the Code Kingdom](https://github.com/miaelfk/bank-account-project)
+
 **Tech Stack:**  
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=flat&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-%2359666C?style=flat&logo=hibernate)
-
-🗺️ [Explore the Code Kingdom](https://github.com/miaelfk/bank-account-project)
 
 ---
 
