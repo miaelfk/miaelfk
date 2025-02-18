@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif"  />
+<img align="right" height="220" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" />
 
 ###
 🧙‍♀️ **About Me**
@@ -12,39 +12,35 @@
 
 ###
 
-<h6 align="left"> When I'm not coding, you'll find me: </h6>
-<h6 align="left">🎮 Playing: from zombies to relaxing things <br>🥐 Spending my money in overpriced cafés because of beautiful food <br> 📖 Reading books: my favorite genre is horror/fiction <br> 👨‍👩‍👧 Coding or not, always loving my beautiful family </h6>
+When I'm not coding, you'll find me:
+
+- 🎮 Playing: from zombies to relaxing things <br>
+- 🥐 Spending my money in overpriced cafés because of beautiful food
+- 📖 Reading books: my favorite genre is horror/fiction
+- 👨‍👩‍👧 Coding or not, always loving my beautiful family
 
 ###
 
-### 🕹️ Current Quest: **Bank System** 🏦⚔️
+### 🏆 Completed Quest: **Bank System** 🏦✨
 
-[![Quest Progress](https://img.shields.io/badge/PHASE-βeta_Testing-%2300C853?style=flat&logo=azure-pipelines&logoColor=white)](https://github.com/miaelfk/bank-account-project)
-[![Boss Difficulty](https://img.shields.io/badge/DIFFICULTY-Legendary_%28NG+%29-%23D32F2F?style=flat&logo=starship)]
+[![Achievement](https://img.shields.io/badge/STATUS-DEPLOYED-%2300C853?style=flat&logo=azure-pipelines&logoColor=white)](https://github.com/miaelfk/bank-account-project)
 
-- 🛡️ **Security Wall**: AES-256 encryption (HP: ♾️)
-- 💰 **Money Mechanics**: Battle complex transaction rules
-- 📈 **Report Guardian**: Data visualization mini-boss
-- 🔌 **API Bridges**: Connecting frontend/backend realms
-
-
-**Tech Loadout:**  
+**Tech Stack:**  
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=flat&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-%2359666C?style=flat&logo=hibernate)
 
-**Boss Weakness:**  
-_"This financial fiend is vulnerable to Strategy pattern attacks for fee calculations!"_
-
-🗺️ [Enter the Dungeon (Repository)](https://github.com/miaelfk/bank-account-project)  
+🗺️ [Explore the Code Kingdom](https://github.com/miaelfk/bank-account-project)
 
 ---
 
-**Quest Party Members:**  
-👩💻 1 Full Stack Mage | 🤖 CI/CD Golem (GitHub Actions)
+### 🔜 Next Quest: **Loading...** ⏳🌀
 
 
-###
+**Warning:**  
+_"New project protocols initializing - stand by for deployment orders"_
+
+---
 
 ## 📬 **Contact Me**
 > *"Send a raven or use these modern methods..."*
@@ -52,17 +48,16 @@ _"This financial fiend is vulnerable to Strategy pattern attacks for fee calcula
 ###
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samiaelfakihfranca/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/miaelfk/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:samiaf@genstudents.org">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://steamcommunity.com/id/miaxhan" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam" />
-  </a>
+<a href="https://www.linkedin.com/in/samiaelfakihfranca/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/miaelfk/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:samiaf@genstudents.org">
+<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://steamcommunity.com/id/miaxhan" target="_blank">
+<img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam" />
+</a>
 </p>
-
