@@ -21,7 +21,7 @@ When I'm not coding, you'll find me:
 
 ###
 
-### 🏆 Completed Quest: **Bank System** 🏦✨
+### 🏆 Completed Quest: **Bank System**
 
 [![Achievement](https://img.shields.io/badge/STATUS-DEPLOYED-%2300C853?style=flat&logo=azure-pipelines&logoColor=white)](https://github.com/miaelfk/bank-account-project) ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=flat&logo=springboot)
@@ -31,7 +31,7 @@ When I'm not coding, you'll find me:
 
 ---
 
-### 🔜 Next Quest: **Loading...** ⏳🌀
+### 🔜 Next Quest: **Loading...**
 
 
 **Warning:** _"New project protocols initializing - stand by for deployment orders"_
