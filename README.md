@@ -25,7 +25,6 @@ When I'm not coding, you'll find me:
 
 [![Achievement](https://img.shields.io/badge/STATUS-DEPLOYED-%2300C853?style=flat&logo=azure-pipelines&logoColor=white)](https://github.com/miaelfk/bank-account-project) ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-%236DB33F?style=flat&logo=springboot)
-![Hibernate](https://img.shields.io/badge/-Hibernate-%2359666C?style=flat&logo=hibernate)
 
 🗺️ [Explore the Code Kingdom](https://github.com/miaelfk/bank-account-project) 
 
