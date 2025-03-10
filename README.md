@@ -18,7 +18,6 @@
 
 🧙‍♀️ **When I'm not coding, you'll find me:**
 > *"A brave adventurer in the realm of technology..."*
-
 <h6>
   
 - 🎮 Playing: from zombies to relaxing things
