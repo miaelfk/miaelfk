@@ -31,15 +31,6 @@
 
 > *"Send a raven or use these modern methods..."*
 
-<p align="left">
-<a href="https://www.linkedin.com/in/samiaelfakihfranca/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/miaelfk/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://steamcommunity.com/id/miaxhan" target="_blank">
-<img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=steam&logoColor=white" alt="Steam" />
-</a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiaelfakihfranca/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/miaxhan)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/miaelfk/)
